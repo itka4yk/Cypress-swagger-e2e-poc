@@ -2,5 +2,11 @@
   "name": "cypress-swagger-e2e-poc",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
 }
