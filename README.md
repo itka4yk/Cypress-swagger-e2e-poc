@@ -41,11 +41,11 @@ It we will produce some BDD-style report
 Swagger
     When scroll to section: store
     And execute GET on route /store/inventory
-    Should return status code: 200passed
+    Should return status code: 200
     
     When scroll to section: user
     And execute POST on route /user
-    Should return status code: 200passed
+    Should return status code: 200
     
     When scroll to section: user
     And execute GET on route /user/logout
