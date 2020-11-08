@@ -1,0 +1,6 @@
+{
+  "name": "cypress-swagger-e2e-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
